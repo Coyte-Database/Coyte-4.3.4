@@ -11,7 +11,7 @@ Raid Difficulty: 10 Man
  #define Ragnaros 
  
  
- // Ragnaros Yells
+ // Ragnaros Yells - All Sounds ID's are not 100% correct yet.
  enum Yells 
     {
 	
@@ -68,9 +68,15 @@ Raid Difficulty: 10 Man
 	   SPELL_BLAZING_HEAT          = 99145, // A Lava Scion inflicts a random player with Blazing Heat, causing the player to create a trail of Blazing Heat in their wake. Blazing Heat inflicts 36562 to 38437 Fire damage every 1 sec on players standing within the trail, and heals Sons of Flame within the trail for 10% every 1 sec. 
 	   
 	   // Stage 3: Begone From My Realm! 
+	  SPELL_SULFURAS_SMASH         = 98710, // 
+	  SPELL_LAVA_WAVE              = 100293, //
+	  SPELL_ENGULFING_FLAME        = 50407, //
+          SPELL_LIVING_METEOR          = 53500, //
+          SPELL_METEOR_IMPACT          = 99287, //
+          
+                        Not done yet.
 	  
-	  
-	  //Stage 4: The True Power of the Firelord!
+	  //Stage 4: The True Power of the Firelord! 
 	   
 	  
 	  
