@@ -40,8 +40,8 @@
 #ifdef _WIN32
 #include "ServiceWin32.h"
 char serviceName[] = "worldserver";
-char serviceLongName[] = "ArkCORE world service";
-char serviceDescription[] = "ArkCORE World of Warcraft emulator world service";
+char serviceLongName[] = "ArkCORE/Coyte world service";
+char serviceDescription[] = "ArkCORE&Coyte-Database World of Warcraft emulator world service";
 /*
  * -1 - not in service mode
  *  0 - stopped
