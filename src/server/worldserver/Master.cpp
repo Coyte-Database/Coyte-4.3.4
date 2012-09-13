@@ -132,9 +132,8 @@ int Master::Run() {
             sLog->outString(" _/    _/  _/        _/    _/    _/_/_/    _/_/    _/    _/  _/_/_/_/  	");
             sLog->outString(" Arkania Community (c) 2012");
             sLog->outString("      <http://arkania.net/>");
-			slog->outString("Coyte-Database Copyright (c) 2012");
-			slog->outString("<http://Coyte-Database.com/>"");
-            sLog->outString(" ");
+			sLog->outString("Coyte-Database Copyright (c) 2012");
+			sLog->outString("<http://Coyte-Database.com/>");
             sLog->outString("<Ctrl-C> to stop.\n");
 
 #ifdef USE_SFMT_FOR_RNG
